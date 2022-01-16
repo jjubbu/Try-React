@@ -15,6 +15,9 @@ const Main = () => {
       <button name="texteditor" onClick={goto}>
         TextEditor
       </button>
+      <button name="contextapi" onClick={goto}>
+        ContextAPI
+      </button>
     </>
   );
 };
