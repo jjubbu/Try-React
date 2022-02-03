@@ -18,6 +18,9 @@ const Main = () => {
       <button name="contextapi" onClick={goto}>
         ContextAPI
       </button>
+      <button name="htmltest" onClick={goto}>
+        Html Test
+      </button>
     </>
   );
 };
