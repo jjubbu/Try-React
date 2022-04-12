@@ -1,4 +1,5 @@
 import { history } from "../redux/store";
+//테에에에스트
 const Main = () => {
   const goto = (e) => {
     const name = e.target.getAttribute("name");
