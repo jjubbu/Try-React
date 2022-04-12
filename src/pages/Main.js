@@ -1,7 +1,5 @@
 import { history } from "../redux/store";
-
-// 커밋테스스스스트 메세지는 과연 중복될까 xpxpxpxfap
-
+//테에에에스트
 const Main = () => {
   const goto = (e) => {
     const name = e.target.getAttribute("name");
