@@ -1,6 +1,7 @@
 import { history } from "../redux/store";
 //테에에에스트
 //텟테테렛테..
+//이번에도 중복된다면 나는 바지에 똥을 쌀거야
 const Main = () => {
   const goto = (e) => {
     const name = e.target.getAttribute("name");
